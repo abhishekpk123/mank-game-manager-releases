@@ -1,9 +1,9 @@
 {
   "latestVersion": "1.0.0",
-  "releaseDate": "2026-07-28",
+  "releaseDate": "2026-07-29",
   "downloadUrl": "https://github.com/abhishekpk123/mank-game-manager-releases/releases/download/v1.0.0/Mank.Game.Manager.Setup.1.0.0.exe",
-  "fileSizeBytes": 0,
-  "sha256": "",
+  "fileSizeBytes": 102391413,
+  "sha256": "2CDD1D0FD45FC2149AA2A877577824BDEB2A3EDEAE9A8EE66498662CBA6418AA",
   "releaseNotes": "Initial release.",
   "mandatory": false,
   "minSupportedVersion": "1.0.0"
