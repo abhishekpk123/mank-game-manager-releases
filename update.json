@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.0.2",
   "releaseDate": "2026-07-29",
-  "downloadUrl": "https://github.com/abhishekpk123/mank-game-manager-releases/releases/download/v1.0.1/Mank.Game.Manager.Setup.1.0.1.exe",
-  "fileSizeBytes": 102391490,
-  "sha256": "140FB9C17F66EF6A3C5567FC72472072C63062416D10F6BAA8B435A0A0820F02",
-  "releaseNotes": "Test release for auto-update verification.",
+  "downloadUrl": "https://github.com/abhishekpk123/mank-game-manager-releases/releases/download/v1.0.2/Mank.Game.Manager.Setup.1.0.2.exe",
+  "fileSizeBytes": 102391375,
+  "sha256": "C8F86C996194A850AA090FF5C7BC1EE2FFB462AE4CFC29DEFF2116ECF39E2AD1",
+  "releaseNotes": "Fixes auto-relaunch after silent update.",
   "mandatory": false,
   "minSupportedVersion": "1.0.0"
 }
