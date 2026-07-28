@@ -1,0 +1,1 @@
+# mank-game-manager-releases
