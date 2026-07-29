@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.0.3",
+  "latestVersion": "1.0.0",
   "releaseDate": "2026-07-29",
-  "downloadUrl": "https://github.com/abhishekpk123/mank-game-manager-releases/releases/download/v1.0.3/Mank.Game.Manager.Setup.1.0.3.exe",
-  "fileSizeBytes": 102391424,
-  "sha256": "BB0F83B7650737B57DD8C80745B11B9C3BE36CBC2E871BE73B0B8115B2F5CFEB",
-  "releaseNotes": "Fixes auto-relaunch after silent update (attempt 2, using Electron's own relaunch API).",
+  "downloadUrl": "https://github.com/abhishekpk123/mank-game-manager-releases/releases/download/v1.0.0/Mank.Game.Manager.Setup.1.0.0.exe",
+  "fileSizeBytes": 102391390,
+  "sha256": "B21DD9C149005A732FAAA8EF1906079450DCBE58321F4795B4983126D9EF9830",
+  "releaseNotes": "Initial release.",
   "mandatory": false,
   "minSupportedVersion": "1.0.0"
 }
