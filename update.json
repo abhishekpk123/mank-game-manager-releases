@@ -2,8 +2,8 @@
   "latestVersion": "1.1.0",
   "releaseDate": "2026-08-06",
   "downloadUrl": "https://github.com/abhishekpk123/mank-game-manager-releases/releases/download/v1.1.0/Mank.Game.Manager.Setup.1.1.0.exe",
-  "fileSizeBytes": 103819011,
-  "sha256": "C76174BA7BC66EED313241F7CB9E484F692CA35BD37D10041293C98164BD785A",
+  "fileSizeBytes": 103819379,
+  "sha256": "70F2AB4557F7EC1BB6BA726AED688808C4D4C63ACF76705979CBB1B261569F33",
   "releaseNotes": "WHAT'S NEW\n\n- Bigger, wider game cards in Cover Flow view, easier to see at a glance.\n- Game backgrounds: Cover Flow now shows an animated background behind the games. You can also set a custom video or GIF background for any individual game from the Edit screen.\n- New Settings menu (gear icon, top right):\n  - Change the keyboard shortcuts used to navigate and launch games.\n  - Choose whether games launch on a single click or double click.\n  - Set a custom default background video for Cover Flow, or reset it back to the built-in one.\n\nNo changes to how Add Game, Rescan, Search, or Delete work.",
   "mandatory": false,
   "minSupportedVersion": "1.0.0"
